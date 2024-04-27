@@ -1,0 +1,11 @@
+﻿numpy
+pandas
+matplotlib
+torch
+torchvision
+opencv-python
+scikit-learn
+# pytorch_msssim-1.0.0-py3-none-any.whl
+tqdm
+tensorboardX
+matplotlib_inline
