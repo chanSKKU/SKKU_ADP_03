@@ -38,7 +38,7 @@ N_GPUS = 1                  # Number of GPUs
 BATCH_SIZE = 2            # Batch size. Must be a multiple of N_GPUS
 global END_ITER
 MAX_EPOCH = 256
-LAMBDA = 10                 # Gradient pena1lty lambda hyperparameter
+LAMBDA = 20                 # 원래 10, 수정한 부분분Gradient pena1lty lambda hyperparameter
 OUTPUT_DIM = 32 * 32 * 3    # Number of pixels in each image
 # Stride to extract patches
 p_stride = 16
